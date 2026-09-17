@@ -1,0 +1,9 @@
+{
+  "name": "dika-portrait-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site with a shared guestbook backed by Netlify Blobs",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "^11.1.0"
+  }
+}

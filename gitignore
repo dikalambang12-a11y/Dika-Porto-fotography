@@ -1,0 +1,12 @@
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Secrets — never commit these
+.env
+.env.local
+.vercel
+
+# Dependencies — Netlify installs these itself from package.json
+node_modules/
